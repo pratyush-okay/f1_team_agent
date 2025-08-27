@@ -41,7 +41,6 @@ F1_TEAMS = [
     "Aston Martin F1 Team",
     "Haas F1 Team",
     "Williams Racing",
-    "Scuderia AlphaTauri",
     "Racing Bulls F1 Team",
     "Sauber F1 Team",
 ]
